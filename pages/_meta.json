@@ -1,15 +1,20 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "about": "About Us"            
+  "intro": "Introduction",
+  "overview": "Policy Overview",
+  "underwriting": "Underwriting",
+  "capital": "Capital Fund",
+  "claims": "Claims",
+  "Policy Coverage": "Policy Coverage", {
+    "coverage": "Policy Coverage",
+    "agreement": "Insuring Agreement",
+    "conditions": "Conditions",
+    "exclusions": "Exclusions"    
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/uberimaefidei",
     "newWindow": true
   }
 }
